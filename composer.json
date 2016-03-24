@@ -1,0 +1,10 @@
+{
+    "name": "package-fund/package-fund",
+    "type": "metapackage",
+    "license": "proprietary",
+    "keywords": [
+        "flarum.work",
+        "crowdfunding","pledges",
+        "open source"
+    ]
+}
