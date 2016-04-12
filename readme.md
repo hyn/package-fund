@@ -7,6 +7,8 @@ milestones.
 Includes:
 
 - [flarum.work](http://flarum.work); for Flarum and its extensions.
+- [laravel.today](http://laravel.today); for Laravel packages.
+- [october.today](http://october.today); for October CMS packages.
 
 This repository is created for package fund portal users to comment and
 provide feedback on the delivered services.
