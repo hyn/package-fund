@@ -6,7 +6,7 @@ milestones.
 
 Includes:
 
-- [flarum.work](http://flarum.work); for Flarum and its extensions.
+- [flarum.today](http://flarum.today); for Flarum and its extensions.
 - [laravel.today](http://laravel.today); for Laravel packages.
 - [october.today](http://october.today); for October CMS packages.
 
