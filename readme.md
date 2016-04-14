@@ -1,6 +1,6 @@
 # Package fund
 
-Package fund is a network of portals which allow people to financially support
+[Package fund](http://package.fund) is a network of portals which allow people to financially support
 open source packages by setting a reward for completing specific issues and
 milestones.
 
