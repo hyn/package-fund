@@ -1,10 +1,10 @@
 {
-    "name": "package-fund/package-fund",
+    "name": "hyn/package-fund",
     "type": "metapackage",
     "license": "proprietary",
     "keywords": [
-        "flarum.work",
-        "crowdfunding","pledges",
-        "open source"
+        "package.fund", "flarum.today", "october.today",
+        "crowdfunding", "funding", "pledges",
+        "open source", "fos"
     ]
 }
